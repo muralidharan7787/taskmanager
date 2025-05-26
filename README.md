@@ -1,16 +1,42 @@
-# assignment1
+![image](https://github.com/user-attachments/assets/115b49d4-4c14-497b-924a-e31bb8146221)# 📝 Task Manager App
 
-A new Flutter project.
+A simple and elegant Flutter app for managing your daily tasks, with local storage using SQLite and optional task fetching from an API.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, delete, update tasks
+- 📅 Pick due dates
+- 🧠 Auto-load tasks from local SQLite database
+- 🌐 Fetch tasks from API and store them locally
+- 📦 Local database storage with `sqflite`
+- 🛠 MVVM architecture using `provider`
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Provider (state management)
+- SQLite (`sqflite`)
+- HTTP for REST API
+- Local DB CRUD
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖥️ Screenshots
+
+| Home Screen | Add Task | Swipe to Delete |
+|-------------|----------|-----------------|
+| ![home](screenshots/home.png) | ![add](screenshots/add.png) | ![delete](screenshots/delete.png) |
+
+## 🛠️ Setup Instructions
+
+### Prerequisites
+
+- Flutter SDK installed (preferably 3.10+)
+- Android Studio / VS Code
+- Emulator or connected device
+
+### 🔄 Steps to Run
+
+```bash
+git clone https://github.com/your-username/flutter-task-manager.git
+cd flutter-task-manager
+flutter pub get
+flutter run
