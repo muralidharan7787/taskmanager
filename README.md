@@ -23,9 +23,7 @@ A simple and elegant Flutter app for managing your daily tasks, with local stora
 
 | Home Screen | Add Task | Swipe to Delete |
 |-------------|----------|-----------------|
-| ![image](https://github.com/user-attachments/assets/115b49d4-4c14-497b-924a-e31bb8146221) | ![image](https://github.com/user-attachments/assets/dda0e941-1312-4792-9697-c891c5fc8250) | 
- ![image](https://github.com/user-attachments/assets/fcfefe14-1ed2-47bd-9a6c-4e97b31e4cd1)
- |
+| ![image](https://github.com/user-attachments/assets/115b49d4-4c14-497b-924a-e31bb8146221) | ![image](https://github.com/user-attachments/assets/dda0e941-1312-4792-9697-c891c5fc8250) | ![image](https://github.com/user-attachments/assets/fc61f25a-fe27-41b0-8dbc-3a9cb006e527) |
 
 ## 🛠️ Setup Instructions
 
