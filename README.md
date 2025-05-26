@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/115b49d4-4c14-497b-924a-e31bb8146221)# 📝 Task Manager App
+# 📝 Task Manager App
 
 A simple and elegant Flutter app for managing your daily tasks, with local storage using SQLite and optional task fetching from an API.
 
@@ -23,7 +23,9 @@ A simple and elegant Flutter app for managing your daily tasks, with local stora
 
 | Home Screen | Add Task | Swipe to Delete |
 |-------------|----------|-----------------|
-| ![home](screenshots/home.png) | ![add](screenshots/add.png) | ![delete](screenshots/delete.png) |
+| ![image](https://github.com/user-attachments/assets/115b49d4-4c14-497b-924a-e31bb8146221) | ![image](https://github.com/user-attachments/assets/dda0e941-1312-4792-9697-c891c5fc8250) | 
+ ![image](https://github.com/user-attachments/assets/fcfefe14-1ed2-47bd-9a6c-4e97b31e4cd1)
+ |
 
 ## 🛠️ Setup Instructions
 
